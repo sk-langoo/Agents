@@ -1,0 +1,34 @@
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+.pycache/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+credentials.json
+secrets.json
+
+# Generated investigations and private work
+local_data/
+evals/results/
+backups/
+work/
+*.inspect.ndjson
+*.log
+
+# Editor / OS metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
