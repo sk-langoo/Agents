@@ -2,7 +2,7 @@
 
 A personal, natural-language Google Calendar agent. It can brief you on today, manage events and attendees, identify free time, find conflicts, and create recurring or focus-time blocks. Credentials and OAuth tokens stay local and are deliberately excluded from Git.
 
-## What it supports
+## What it supports 
 
 - Create, update, reschedule, cancel, and delete events
 - Invite required or optional guests and automatically request a Google Meet link
