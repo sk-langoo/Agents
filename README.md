@@ -10,4 +10,4 @@ Start with the project README for setup, sample questions, architecture, evaluat
 
 All sample customer and transaction data is fictional. This repository is for learning and demonstration, not production financial decisions.
 
-Licensed under the MIT License; see [LICENSE](LICENSE).
+Licensed under the MIT License; see [LICENSE](LICENSE). 
